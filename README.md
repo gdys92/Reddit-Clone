@@ -9,4 +9,5 @@ Install the dependencies and start the server.  When you clonse the respository,
 ```sh
 $ cd <project_directory>
 $ npm install
+$ npm start
 ```
